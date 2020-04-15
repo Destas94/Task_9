@@ -13,7 +13,7 @@ public class Task {
         System.out.print ("Введённые элементы массива, умноженные на 2:");
         for (int i = 0; i < size; i++) {
             array[i] = array[i]*2;
-            System.out.print (" " + array[i]); // Выводим на экран, полученный массив
+            System.out.print (" " + array[i]);
         }
         System.out.println();
     }
